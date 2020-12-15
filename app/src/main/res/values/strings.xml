@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EjemplosTextView</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textodialog">Mensaje de nuestro dialogo</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+</resources>
